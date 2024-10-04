@@ -24,10 +24,13 @@ The pipeline utilizes several key bioinformatics tools such as FastQC for qualit
 ### Dataset Information:
 1.	#### Sample ID: 
 DRR589145
+
 2.	#### Data Source:
 [NCBI SRA DATABASE]( https://trace.ncbi.nlm.nih.gov/Traces/?view=run_browser&acc=DRR589147&display=download)
+
 3.	#### Data Type: 
 Paired-end sequencing data in FASTQ format.
+
 4.	#### Reference Genome: 
 Escherichia coli (GCA_000005845.2_ASM584v2_genomic.fna). File uploaded
 
