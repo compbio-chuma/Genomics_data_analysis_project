@@ -99,10 +99,10 @@ The results of the variant calling are stored in variants/DRR589145_variants.vcf
 
 ## Results
 After completing the pipeline, the following are key outputs generated:
-•	FASTQC reports: Located in outputs/.
-•	Trimmed FASTQ files: Found in trimmed_data/. (Too large for upload)
-•	Aligned BAM file: Located in aligned_data/DRR589145_aligned_sorted.bam. (Too large for upload)
-•	Variant Call Format (VCF) file: Located in variants/DRR589145_variants.vcf.
+*	FASTQC reports: Located in outputs/.
+*	Trimmed FASTQ files: Found in trimmed_data/. (Too large for upload)
+*	Aligned BAM file: Located in aligned_data/DRR589145_aligned_sorted.bam. (Too large for upload)
+*	Variant Call Format (VCF) file: Located in variants/DRR589145_variants.vcf.
 
 
 
