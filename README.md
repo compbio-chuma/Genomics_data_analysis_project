@@ -32,7 +32,7 @@ DRR589145
 Paired-end sequencing data in FASTQ format.
 
 4.	#### Reference Genome: 
-Escherichia coli (GCA_000005845.2_ASM584v2_genomic.fna). File uploaded
+Escherichia coli (GCA_000005845.2_ASM584v2_genomic.fna). File uploaded.
 
 ## Project Structure
 bioinformatics_projects/
