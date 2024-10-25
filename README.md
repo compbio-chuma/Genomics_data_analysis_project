@@ -1,4 +1,5 @@
-# Genomic Data Analysis Project: Variant Calling Pipeline with DRR589145
+# Variant Calling Pipeline for Genomic Data Analysis: DRR589147 Sample of Escherichia coli K-12 MG1655
+
 
 ## Project Overview
 This project aims to analyze genomic data using a bioinformatics pipeline that includes quality control, trimming, alignment, variant calling, and output documentation. We use a publicly available dataset from the DRR589145 sample for this analysis.
